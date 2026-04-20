@@ -1,0 +1,35 @@
+🌐 Laboratorio: Arquitectura y Modelos de Nube
+Este informe analiza los fundamentos de la arquitectura Cliente-Servidor y cómo los modelos de servicio en la nube optimizan el despliegue de soluciones tecnológicas.
+
+1. Arquitectura Cliente-Servidor
+El modelo se basa en la distribución de tareas entre dos entidades principales:
+
+Cliente: El demandante de servicios (ej. navegador web, aplicación móvil).
+
+Servidor: El proveedor de recursos que procesa las solicitudes y entrega respuestas.
+
+Medio: La comunicación se realiza esencialmente a través de Internet.
+
+
+2. Modelos de Servicio en la Nube (IaaS, PaaS, SaaS)
+Para este proyecto, el análisis se centra en encontrar el equilibrio entre control y agilidad:
+
+IaaS (Infraestructura): Ofrece el mayor control sobre el hardware virtual y sistemas operativos, ideal para configuraciones de red complejas.
+
+PaaS (Plataforma): Es el modelo seleccionado para el despliegue de este laboratorio. Al ser una plataforma exclusivamente para código,
+permite al desarrollador enfocarse en la lógica del negocio sin preocuparse por el mantenimiento de la infraestructura base (parches de seguridad, SO, etc.).
+
+SaaS (Software): Máxima facilidad de uso con el mínimo control técnico.
+
+3. Beneficios y Riesgos
+En el marco de la metodología DevOps, la adopción de estos modelos permite:
+
+Escalabilidad: Capacidad de ajustar recursos según la demanda.
+
+Disponibilidad: Garantizada mediante acuerdos de SLA, redundancia y seguridad de datos.
+
+Riesgo crítico: La dependencia total de la conexión a Internet y la centralización de datos, que requiere estrategias de ciberseguridad robustas.
+
+📝 Resumen del Aprendizaje
+La combinación de Git para el versionado y la Nube (específicamente modelos PaaS) constituye la base para un ciclo de vida de desarrollo ágil, 
+permitiendo una alta disponibilidad y una colaboración eficiente entre equipos.
